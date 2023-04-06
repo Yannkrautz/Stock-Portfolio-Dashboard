@@ -7,7 +7,6 @@ numpy
 datetime
 matplotlib
 plotly
-os
 dash_table
 plotly
 pandas_datareader

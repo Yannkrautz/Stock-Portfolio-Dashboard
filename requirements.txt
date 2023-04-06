@@ -1,5 +1,5 @@
 dash
-pip==23.0.1
+pycountry-main
 dash_html_components
 dash_core_components
 dash_bootstrap_components

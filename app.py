@@ -10,7 +10,6 @@ import numpy as np
 import datetime
 import matplotlib.pyplot as plt
 import plotly.graph_objs as go
-import os
 import dash_table as dt
 from plotly import __version__
 import plotly.express as px

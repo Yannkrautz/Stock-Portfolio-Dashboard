@@ -10,10 +10,6 @@ Return by sector<br>
 
 Performance by country<br>
 
-# Usage
-
-To use the dashboard, you need to insert your portfolio of stocks.
-
 # Screenshots
 
 <img width="1440" alt="Screenshot 2023-04-05 at 21 25 00" src="https://user-images.githubusercontent.com/85077997/230249643-c34a3c8a-b474-4667-8a43-913f424e074a.png">

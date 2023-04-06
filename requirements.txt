@@ -10,8 +10,6 @@ plotly
 os
 dash_table
 plotly
-plotly
-plotly
 pandas_datareader
 yahoo_fin
 ipycountry

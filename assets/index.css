@@ -1,0 +1,33 @@
+/* This creates a skinny side bar fixed to the left of the page */
+
+.dash-table-container .dropdown {
+  position: static;
+  background-color: red;
+}
+
+.dash-spreadsheet .Select-value-label {
+  padding-right: 20px;
+}
+
+.Select-control {
+    background-color: #1E2024 !important;
+    color:white;
+  }
+  
+.Select-menu-outer {
+    background-color: white;
+    color: white;
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+.VirtualizedSelectOption {
+    background-color: white;
+    color: black;
+}
+
+.VirtualizedSelectFocusedOption {
+    background-color: #1B62A5;
+}

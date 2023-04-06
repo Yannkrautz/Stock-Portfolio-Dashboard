@@ -17,7 +17,7 @@ from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 from pandas_datareader import data as pdr
 #import yfinance as yf
 import yahoo_fin.stock_info as yf
-import pycountry
+import pycountry-main
 
 # Define the path to the Excel file
 file_path = 'Yahoo Ticker Symbols.xlsx'
@@ -29,7 +29,7 @@ ticker_list = np.sort(df_tickers['Ticker'].unique())
 
 def country_to_alpha3(name):
     try:
-        country = pycountry.countries.get(name=name)
+        country = pycountry-main.countries.get(name=name)
         return country.alpha_3
     except AttributeError:
         # If the country is not found or does not have an alpha_3 code, return None

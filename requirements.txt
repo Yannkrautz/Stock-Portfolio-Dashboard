@@ -8,7 +8,6 @@ datetime
 matplotlib
 plotly
 dash_table
-plotly
 pandas_datareader
 yahoo_fin
 ipycountry

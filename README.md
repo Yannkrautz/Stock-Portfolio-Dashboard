@@ -1,7 +1,5 @@
 # Stock Portfolio Dashboard
 
-This dashboard is designed to provide an overview of a portfolio of stocks, showing various indicators of performance, results over benchmark, return by sector, and performance by country. The dashboard is built with Python and Plotly, using data from various stock exchanges and financial APIs.
-
 # Features
 
 Portfolio performance<br>

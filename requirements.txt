@@ -11,5 +11,4 @@ plotly
 dash_table
 pandas_datareader
 yahoo_fin
-ipycountry
 gunicorn

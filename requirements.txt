@@ -13,3 +13,4 @@ pandas_datareader
 yahoo_fin
 gunicorn
 openpyxl
+xlrd

@@ -469,7 +469,7 @@ def create_child_div(portfolio_df, portfolio, countries):
                         #html.Img(src=app.get_asset_url('abw.png'))
                         dbc.Col(
                             html.Div(
-                                html.Img(src=r'assets/images/svg/' + c + '.svg', style={'height': '100%', 'width': '100%',  'object-fit': 'cover','border-radius': '15%'}),
+                                html.Img(src=r'/assets/images/svg/' + c + '.svg', style={'height': '100%', 'width': '100%',  'object-fit': 'cover','border-radius': '15%'}),
                                 style={'height': '15px', "margin-left": "10px", 'width': '25px', 'border-radius': '15%', },
                             ),
                             #style={"background-color": "blue"},
